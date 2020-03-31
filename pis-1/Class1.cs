@@ -6,5 +6,6 @@ namespace pis-1
 {
     class Class1
     {
+        //samo komentar
     }
 }
